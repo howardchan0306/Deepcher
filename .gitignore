@@ -1,0 +1,9 @@
+# Python 虚拟环境
+.venv/
+
+# Python 字节码缓存
+__pycache__/
+*.pyc
+
+# pytest 缓存
+.pytest_cache/
